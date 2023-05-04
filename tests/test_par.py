@@ -9,7 +9,7 @@ class TestClass:
 
     # Test para la operación par
     def test_par(self):
-        assert par(4) == true
-        assert par(5) == false
-        assert par(9) == false
-        assert par(400) == true
+        assert par(4) == True
+        assert par(5) == False
+        assert par(9) == False
+        assert par(400) == True
